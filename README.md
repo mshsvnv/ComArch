@@ -1,2 +1,2 @@
-# ComArch_4_sem_BMSTU
+# ComArch_4_5_sem_BMSTU
 labs, rks of Computer Architecture
